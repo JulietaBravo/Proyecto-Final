@@ -1,0 +1,165 @@
+<body class="body-secciones">
+    <main class="main">
+    <div class="grid-container"> <!-- Contenedor general -->
+        <div class="grid-piloto">
+            <div class="grid-nombre">
+            <h2>Lewis Hamilton</h2>
+            </div>    
+            <div class="grid-imagen">
+                <img src="../multimedia/Hamilton.jpg" alt="Hamilton" class="img-pilotos">
+            </div>  
+            <div class="grid-descripcion">    
+            <ul>
+                <li>Equipo: Mercedes AMG F1</li>
+                <li>Edad: 36 años</li>
+                <li>Títulos Mundiales: 7</li>
+            </ul>
+            </div>    
+        </div> 
+
+        <div class="grid-piloto">
+            <div class="grid-nombre">
+            <h2>Valtteri Bottas</h2>
+            </div>    
+            <div class="grid-imagen">   
+            <img src="../multimedia/Bottas.jpg" alt="Foto Bottas" class="img-pilotos">
+            </div>
+            <div>   
+            <ul class="grid-descripcion">
+                <li>Equipo: Mercedes AMG F1</li>
+                <li>Edad: 31 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div>   
+
+        <div class="grid-piloto">   
+            <div class="grid-nombre">
+            <h2>Max Verstappen</h2>
+            </div> 
+            <div class="grid-imagen">
+            <img src="../multimedia/Verstappen.jpg" alt="Foto Verstappen" class="img-pilotos">
+            </div>
+            <div>
+            <ul class="grid-descripcion">
+                <li>Equipo: Red Bull</li>
+                <li>Edad: 23 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div> 
+
+        <div class="grid-piloto">   
+            <div class="grid-nombre">
+            <H2>Sergio Pérez</H2>
+            </div>
+            <div class="grid-imagen">
+            <img src="../multimedia/perez.jpg" alt="Foto Pérez" class="img-pilotos">
+            </div>
+            <div>   
+            <ul class="grid-descripcion">
+                <li>Equipo: Red Bull</li>
+                <li>Edad: 31 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div>
+
+        <div class="grid-piloto">    
+            <div class="grid-nombre">
+            <h2>Charles Leclerc</h2>
+            </div> 
+            <div class="grid-imagen">
+            <img src="../multimedia/Leclerc.png" alt="Foto Leclerc" class="img-pilotos">
+            </div>  
+            <div>
+            <ul class="grid-descripcion">
+                <li>Equipo: Ferrari</li>
+                <li>Edad: 23 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div> 
+
+        <div class="grid-piloto">  
+            <div class="grid-nombre">
+            <h2>Carlos Sainz Jr.</h2>
+            </div>
+            <div class="grid-imagen">
+            <img src="../multimedia/sainz.png" alt="Foto Sainz" class="img-pilotos">
+            </div>
+            <div>  
+            <ul class="grid-descripcion">
+                <li>Equipo: Ferrari</li>
+                <li>Edad: 26 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div>     
+  
+        <div class="grid-piloto"> 
+            <div class="grid-nombre">
+            <h2>Lando Norris</h2>
+            </div>
+            <div class="grid-imagen">
+            <img src="../multimedia/norris.png" alt="Foto Norris" class="img-pilotos">
+            </div>    
+            <div>   
+            <ul class="grid-descripcion">
+                <li>Equipo: McLaren F1</li>
+                <li>Edad: 21 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div>   
+
+        <div class="grid-piloto">
+            <div class="grid-nombre">
+            <h2>Daniel Ricciardo</h2>
+            </div>
+            <div class="grid-imagen">
+            <img src="../multimedia/ricciardo.png" alt="Foto Ricciardo" class="img-pilotos">
+            </div> 
+            <div>  
+            <ul class="grid-descripcion">
+                <li>Equipo: McLaren F1</li>
+                <li>Edad: 32 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div> 
+        </div>    
+
+        <div class="grid-piloto">   
+            <div class="grid-nombre">
+            <h2>George Russell</h2>
+            </div>  
+            <div class="grid-imagen">
+            <img src="../multimedia/rusell.png" alt="Foto Russell" class="img-pilotos">
+            </div> 
+            <div>
+            <ul class="grid-descripcion">
+                <li>Equipo: Williams F1</li>
+                <li>Edad: 23 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div>
+        <div class="grid-piloto">    
+            <div class="grid-nombre">
+            <h2>Nicholas Latifi</h2>
+            </div>
+            <div class="grid-imagen">
+            <img src="../multimedia/latifi.png" alt="Foto Latifi" class="img-pilotos">
+            </div> 
+            <div>   
+            <ul  class="grid-descripcion">
+                <li>Equipo: Williams F1</li>
+                <li>Edad: 26 años</li>
+                <li>Títulos Mundiales: 0</li>
+            </ul>
+            </div>
+        </div>     
+    </div>
+</main>  
+</body>
+</html>
